@@ -322,4 +322,4 @@ console.log("Agnes" || "user")
 
 这为你提供了足够的信息来把JavaScript作为一个袖珍计算器，但仅此而已。下一章将开始用这些表达式组成基本的程序。
 
-**2021.4.14 Knight**
+**2021.4.14 Translated by Knight**

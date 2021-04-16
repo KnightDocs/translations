@@ -104,4 +104,4 @@ showMoney("100"); // €100
 
 这里```currencySymbol```变量显然就触发了 Variable Shadowing 。在局部作用域中，会使用当前作用域下的```currencySymbol```变量，和外部的那个不相干。
 
-**2021.4.13 Knight**
+**2021.4.13 Translated by Knight**

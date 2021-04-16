@@ -188,6 +188,4 @@ console.log(factorial(8));
 
 祝你好运！
 
-（本章结束）
-
-**2021.4.12 Knight**
+**2021.4.12 Translated by Knight**

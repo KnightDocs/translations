@@ -60,4 +60,4 @@ alert() // display alert box
 prompt() // display dialog box
 ```
 
-**2021.4.13 Knight**
+**2021.4.13 Translated by Knight**
